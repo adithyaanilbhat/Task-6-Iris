@@ -34,3 +34,7 @@ This project implements the K-Nearest Neighbors (KNN) algorithm to classify the 
 ## How to Run
 1. Ensure Python 3.x is installed.
 2. Install required libraries if not already installed:
+3. Run the Python script in the folder containing `task6.py` and `iris.csv`:
+4. View the output accuracy, confusion matrices, and decision boundary plot.
+
+
